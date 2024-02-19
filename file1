@@ -1,2 +1,3 @@
 Once you've resolved all your merge conflicts, click Commit merge. This merges the entire base branch into your head branch.
 jfvfnfdn
+If you have more than one file with a conflict, select the next file you want to edit on the left side of the page under "conflicting files" and repeat steps four through seven until you've resolved all of your pull requests merge conflicts.
